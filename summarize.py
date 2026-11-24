@@ -1,13 +1,22 @@
 import os
 import json
+import time
+import socket
 from datetime import datetime, timedelta, timezone
 import feedparser
 from dotenv import load_dotenv
 from google import genai
+from google.genai import errors
+
+# 뉴스 사이트가 20초 넘게 응답 없으면 포기하고 다음 사이트로
+socket.setdefaulttimeout(20)
 
 # ===== 설정 (여기 숫자만 바꿔서 조절해요) =====
 HOURS = 16        # 몇 시간 전 기사까지 가져올지
 ITEM_COUNT = 15   # AI가 고를 기사 수
+
+# 앞의 모델이 붐비면 다음 모델로 시도해요
+MODELS = ["gemini-3.6-flash", "gemini-3.5-flash-lite"]
 
 FEEDS = [
     {"name": "CNBC", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"},
@@ -91,16 +100,32 @@ prompt = f"""
 {news_text}
 """
 
-# 4. Gemini 호출
-print("AI가 요약하는 중... (20~40초 걸려요)")
-response = client.models.generate_content(
-    model="gemini-3.6-flash",
-    contents=prompt,
-    config={"response_mime_type": "application/json"},
-)
+# 4. Gemini 호출 (붐비면 기다렸다 재시도, 그래도 안 되면 다음 모델로)
+def ask_gemini(prompt):
+    for model in MODELS:
+        for attempt in range(1, 4):   # 모델마다 최대 3번
+            try:
+                print(model, "로 요약 시도", attempt, "번째... (20~40초 걸려요)")
+                response = client.models.generate_content(
+                    model=model,
+                    contents=prompt,
+                    config={"response_mime_type": "application/json"},
+                )
+                return response.text
+            except errors.APIError as error:
+                # 429(한도 초과), 500·503·504(서버 붐빔)는 기다리면 풀릴 수 있어요
+                if error.code in (429, 500, 503, 504):
+                    wait = 30 * attempt
+                    print("  실패:", error.code, "→", wait, "초 기다렸다 다시 시도해요")
+                    time.sleep(wait)
+                else:
+                    raise   # 키 오류 등 기다려도 소용없는 에러는 바로 멈춤
+    raise SystemExit("모든 모델이 응답하지 않아 오늘은 멈춥니다. 사이트에는 어제 브리핑이 그대로 남아 있어요.")
+
+answer = ask_gemini(prompt)
 
 # 5. AI의 답을 Python 데이터로 바꾸기
-brief = json.loads(response.text)
+brief = json.loads(answer)
 
 # 6. AI가 고른 기사마다 발행 시각을 붙이기 (링크로 찾아요)
 for item in brief["items"]:
