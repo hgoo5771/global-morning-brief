@@ -1,0 +1,71 @@
+# 매일 아침 브리핑을 만들고 사이트에 올리는 자동화 설정
+name: Daily Morning Brief
+
+on:
+  schedule:
+    - cron: "17 21 * * *"   # 매일 한국 시간 오전 6시 17분 (영국 시간 21:17)
+  workflow_dispatch:         # Actions 화면의 버튼으로 직접 실행
+  push:
+    branches: [main]         # 디자인을 고쳐서 올리면 사이트만 다시 배포
+
+permissions:
+  contents: write   # brief.json을 저장소에 저장
+  pages: write      # 사이트 배포
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: 저장소 파일 가져오기
+        uses: actions/checkout@v5
+
+      # ↓ 아래 4단계는 정해진 시각 또는 버튼 실행일 때만 (디자인 수정 때는 건너뜀)
+      - name: Python 준비
+        if: github.event_name != 'push'
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: 도구 설치
+        if: github.event_name != 'push'
+        run: pip install -r requirements.txt
+
+      - name: 오늘의 브리핑 만들기
+        if: github.event_name != 'push'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python summarize.py
+
+      - name: brief.json 저장소에 저장
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add brief.json
+          git commit -m "Brief $(TZ=Asia/Seoul date +%F)" || echo "변경 없음"
+          git push
+
+      # ↓ 사이트에 필요한 파일만 골라서 배포 (summarize.py 등은 공개 안 함)
+      - name: 사이트 파일 모으기
+        run: |
+          mkdir _site
+          cp index.html style.css script.js animation.js brief.json _site/
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - name: 사이트 배포
+        id: deployment
+        uses: actions/deploy-pages@v4
