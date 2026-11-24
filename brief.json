@@ -1,128 +1,128 @@
 {
-  "summary": "밤사이 젠슨 황 엔비디아 CEO의 복귀 소식으로 기술주가 급등하고 국내 증시와 외환시장이 반등세를 보였습니다. 미국 정부의 무역 제재 강화와 호르무즈 해협에서의 유조선 기뢰 충돌 등 지정학적 위험 요소도 이어졌습니다. 국내에서는 가상자산거래소 지분 제한 등 규제 법안 추진과 주요 기업의 인사 발표가 진행되었습니다.",
+  "summary": "밤사이 엔비디아 젠슨 황 CEO의 복귀 소식에도 불구하고 주요 AI 기술주 주가는 하락세를 나타냈습니다. 미 연준 당국자의 금리 인상 가능성 언급과 인플레이션 우려 속에서도 델과 베스트바이 등 일부 기업들은 실적 호조를 기록했습니다. 국내에서는 한국의 사상 첫 연간 수출 1조 달러 달성 소식과 함께 한은 금통위를 앞둔 외국인 투자자들의 국채선물 대량 매수세가 관측됐습니다.",
   "items": [
     {
       "category": "TECHNOLOGY & INDUSTRY",
-      "title": "젠슨 황 CEO 엔비디아 복귀에 주가 31% 폭등",
-      "summary": "젠슨 황이 엔비디아 최고경영자(CEO)로 경영에 복귀했습니다. 이사회는 미국 정부 고위급의 의견 조율이 있었다고 밝혔으며, 이에 따라 주가가 31% 폭등했습니다.",
+      "title": "엔비디아 젠슨 황 CEO 복귀 논란 속 주가 5% 이상 하락",
+      "summary": "사임했던 젠슨 황 엔비디아 CEO가 트럼프 미국 대통령의 개입으로 복귀했으나 주가는 5% 이상 하락했습니다. 미 법무부와 FBI 당국자들은 중국 관련 안보 조사에 대한 질의에 답변을 피했으며, 당국 조사가 계속 이어지고 있습니다.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "published": "2026-11-23T21:08:05+00:00"
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+      "published": "2026-11-24T21:15:23+00:00"
     },
     {
-      "category": "GLOBAL ECONOMY",
-      "title": "미국, 우회 수출 우려로 메가스피드 등 7개 기업 무역 블랙리스트 추가",
-      "summary": "미국 정부는 첨단 컴퓨팅 제품의 우회 전용 가능성을 이유로 메가스피드와 6개 기업을 무역 제재 목록에 올렸습니다. 이는 엔비디아를 둘러싼 논란과 수출 통제 우려 속에서 이루어졌습니다.",
+      "category": "TECHNOLOGY & INDUSTRY",
+      "title": "델, AI 서버 수요 호조로 3분기 매출 2배 급증 및 250억 달러 자사주 매입",
+      "summary": "델(Dell)이 인공지능(AI) 서버 수요 증가에 힘입어 3분기 총매출이 전년 대비 2배 이상 늘었다고 발표했습니다. 회사는 이와 함께 250억 달러 규모의 자사주 매입 프로그램을 승인했습니다.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
-      "published": "2026-11-24T02:37:39+00:00"
+      "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+      "published": "2026-11-24T22:07:45+00:00"
     },
     {
-      "category": "ENERGY & COMMODITIES",
-      "title": "이란 호르무즈 해협서 유조선 3척 기뢰 충돌 및 미 제재 강화",
-      "summary": "이란은 호르무즈 해협에서 미군의 호위에도 불구하고 유조선 3척이 기뢰에 맞아 화재가 발생했다고 밝혔습니다. 이와 함께 미국 재무부는 테헤란의 자금줄 차단을 위해 제재를 추가로 확대했습니다.",
+      "category": "TECHNOLOGY & INDUSTRY",
+      "title": "사노피, 제약사 인스메드 인수 합의에 주가 14% 급등",
+      "summary": "프랑스 제약사 사노피가 인스메드를 인수하기로 합의하면서 인스메드 주가가 14% 상승했습니다. 이번 거래는 최근 3년 내 제약업계 최대 규모로, 사노피는 특허 만료에 따른 매출 감소에 대응하고 있습니다.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
-      "published": "2026-11-24T05:05:08+00:00"
+      "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+      "published": "2026-11-24T21:07:19+00:00"
+    },
+    {
+      "category": "TECHNOLOGY & INDUSTRY",
+      "title": "AI 스타트업 앤트로픽, 상장 후 공모가 83달러 밑으로 하락",
+      "summary": "AI 기업 앤트로픽의 주가가 상장 공모가인 83달러 이하로 떨어졌습니다. 나스닥 상장 첫날 111.50달러로 거래를 시작한 이후 지속적인 하락세를 이어가고 있습니다.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+      "published": "2026-11-24T21:04:03+00:00"
     },
     {
       "category": "FINANCIAL MARKETS",
-      "title": "미 연준 존 윌리엄스 총재, 인플레이션 잡기 위한 추가 금리 인상 시사",
-      "summary": "존 윌리엄스 뉴욕 연은 총재는 인플레이션을 제어하기 위해 시간이 지남에 따라 높은 금리가 필요할 수 있다고 언급했습니다. 그는 2027년에 인플레이션이 연준 목표치인 2%에 가까워질 것이라고 예상했습니다.",
+      "title": "미 연준 윌리엄스 총재, 인플레이션 대응 위한 추가 금리 인상 가능성 시사",
+      "summary": "존 윌리엄스 뉴욕 연은 총재는 인플레이션을 연준 목표치인 2%로 낮추기 위해 시간이 지남에 따라 금리를 더 올릴 가능성이 높다고 밝혔습니다. 그는 2027년에는 인플레이션이 목표치에 더 가까워질 것으로 예상했습니다.",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-      "published": "2026-11-23T21:02:17+00:00"
-    },
-    {
-      "category": "TECHNOLOGY & INDUSTRY",
-      "title": "크라우드스트라이크 CEO, 지스케일러 인수 당위성 강조",
-      "summary": "크라우드스트라이크의 조지 커츠 CEO는 440억 달러 규모의 지스케일러 인수를 긍정적 결합이라고 평가했습니다. 함께 공개된 분기 실적 역시 강한 재무 상태를 바탕으로 결정되었음을 보여줍니다.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html",
-      "published": "2026-11-23T23:53:20+00:00"
-    },
-    {
-      "category": "FINANCIAL MARKETS",
-      "title": "미 노동부, 401(k) 퇴직연금 내 ESG 투자 제한 규정 제안",
-      "summary": "미국 노동부는 401(k) 등 직장 퇴직연금 계획에서 ESG 펀드의 도입을 제한하는 내용의 규제안을 제안했습니다.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/labor-department-esg-401k-rule.html",
-      "published": "2026-11-23T19:46:28+00:00"
+      "published": "2026-11-24T13:33:26+00:00"
     },
     {
       "category": "GLOBAL ECONOMY",
-      "title": "프랑스 중앙은행 총재, 방위·항공우주 기반 성장에 경기후퇴 피할 것으로 전망",
-      "summary": "프랑스은행 이마뉘엘 물랭 총재는 방위, 항공우주, 전력 등 일부 부문의 회복력을 이유로 성장을 유지할 것으로 예상했습니다.",
+      "title": "미국 11월 소비자신뢰지수 103.3으로 상승",
+      "summary": "컨퍼런스보드가 발표한 11월 미국 소비자신뢰지수가 103.3으로 반등했습니다. 민주당의 중간선거 승리 이후 지수가 전반적으로 개선되었으나 인플레이션에 대한 우려는 여전히 남아있습니다.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
-      "published": "2026-11-24T06:55:36+00:00"
+      "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+      "published": "2026-11-24T18:34:43+00:00"
     },
     {
       "category": "TECHNOLOGY & INDUSTRY",
-      "title": "아마존, AI 스타트업 디카트 칩 소프트웨어 인수 및 창업자 영입",
-      "summary": "아마존이 AI 스타트업 디카트의 칩 관련 소프트웨어를 인수하고 설립자들을 채용하기로 합의했습니다. 디카트는 서로 다른 칩 환경에서 AI 모델을 동기화하는 기술로 알려져 있습니다.",
+      "title": "베스트바이, 3분기 동일매출 6.1% 성장하며 5년 만에 최고치 기록",
+      "summary": "베스트바이가 3분기 실적 발표에서 6.1%의 동일매출 성장률을 기록하며 시장 예상치를 웃돌았습니다. 이는 최근 5년 내 가장 높은 성장률로, 회사는 연간 실적 전망치를 상향했습니다.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
-      "published": "2026-11-23T19:34:38+00:00"
+      "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+      "published": "2026-11-24T14:51:58+00:00"
+    },
+    {
+      "category": "FINANCIAL MARKETS",
+      "title": "10월 미국 상업용 부동산 거래 활동 14% 감소",
+      "summary": "부동산 데이터 플랫폼 라이트박스에 따르면 10월 미국 상업용 부동산 거래 활동이 9월에 비해 14% 감소했습니다. 금리 상승이 거래 감소에 영향을 미친 것으로 나타났습니다.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
+      "published": "2026-11-24T15:05:14+00:00"
     },
     {
       "category": "TECHNOLOGY & INDUSTRY",
-      "title": "스페이스X, Grok AI 딥페이크 음란물 관련 민사 소송 직면",
-      "summary": "미국 오레곤주와 버지니아주는 스페이스X를 상대로 Grok 및 X를 통한 성적 이미지의 무단 생성과 유포를 막기 위한 소송을 제기했습니다.",
+      "title": "오픈AI 본사 도청 혐의 사우디인, 100만 달러 보석 석방",
+      "summary": "오픈AI 샌프란시스코 본사 임원 회의실에 도청 장치를 설치한 혐의를 받는 사우디 국적의 압둘라흐만 알포잔이 100만 달러 보석금을 내고 석방될 예정입니다.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
-      "published": "2026-11-23T16:45:31+00:00"
+      "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+      "published": "2026-11-24T22:03:01+00:00"
+    },
+    {
+      "category": "TECHNOLOGY & INDUSTRY",
+      "title": "화웨이, 미국 뉴욕 법원에서 영업비밀 침해 유죄 판결",
+      "summary": "미국 뉴욕에서 열린 재판에서 중국 화웨이가 영업비밀을 침해한 혐의에 대해 유죄 판결을 받았습니다. 다만 공갈 혐의에 대해서는 무죄 판결을 받았습니다.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T22:24:23+00:00"
     },
     {
       "category": "KOREA",
-      "title": "젠슨 황 복귀에 코스피 6%대 급반등…코스닥도 상승세",
-      "summary": "젠슨 황 엔비디아 CEO의 경영 복귀로 위험선호 심리가 회복되며 코스피가 6% 넘게 오르고 5,000선을 회복했습니다. 외국인 매수세 속에 코스닥 역시 강세를 보였습니다.",
+      "title": "한국 사상 첫 연간 수출 1조 달러 달성… 세계 평균 2배 속도 성장",
+      "summary": "한국이 올해 사상 처음으로 연간 수출 1조 달러를 달성했습니다. 지난 60여 년간 한국 수출은 세계 평균 수출 증가율의 2배에 달하는 속도로 성장하며 경제에 크게 기여했습니다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261124138200008",
-      "published": "2026-11-24T06:37:31+00:00"
+      "url": "https://www.yna.co.kr/view/AKR20261124149700003",
+      "published": "2026-11-24T22:00:03+00:00"
     },
     {
       "category": "KOREA",
-      "title": "정부, 가상자산거래소 대주주 지분 20% 제한 법안 마련",
-      "summary": "정부가 가상자산거래소 대주주의 지분 소유 한도를 20%로 제한하는 규제 방안을 마련했습니다. 또한 스테이블코인의 발행은 은행 중심으로 운영되도록 규율 체계를 정립할 예정입니다.",
+      "title": "내달부터 EU 수출 한국산 하이브리드차 무관세 물량 6만7,924대로 제한",
+      "summary": "다음 달부터 내년 6월 18일까지 200일간 유럽연합(EU)에 무관세로 수출할 수 있는 한국산 하이브리드 자동차 수량이 6만7천924대로 제한됩니다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261124124400002",
-      "published": "2026-11-24T06:00:07+00:00"
+      "url": "https://www.yna.co.kr/view/AKR20261124170651098",
+      "published": "2026-11-24T10:08:52+00:00"
     },
     {
       "category": "KOREA",
-      "title": "골드만삭스, 내년 한국 경제성장률 3.2% 전망",
-      "summary": "글로벌 투자은행 골드만삭스는 한국의 내년 경제성장률이 3%대의 견조한 수준을 지속할 것으로 보고 있습니다. 한국 기준금리 상단은 3.5% 수준이 될 것으로 제시했습니다.",
+      "title": "한국은행 금통위 앞두고 외국인 국채선물 대량 매수",
+      "summary": "한국은행 금융통화위원회의 기준금리 결정을 앞두고 외국인 투자자들이 3년물과 10년물 국채선물을 대량 매수했습니다. 금통위의 금리 인상 가능성이 제기되는 상황에서 매수세가 이어졌습니다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261124112800008",
-      "published": "2026-11-24T05:04:27+00:00"
+      "url": "https://www.yna.co.kr/view/AKR20261124171200008",
+      "published": "2026-11-24T23:00:02+00:00"
     },
     {
       "category": "KOREA",
-      "title": "삼성전자, 임원 승진 축소 속 반도체 분야 70명 대거 발탁",
-      "summary": "삼성전자가 전체 임원 승진 규모를 전년 대비 감축하면서도 실적을 이끈 반도체 부문 인재를 대거 발탁했습니다. 승진 대상자 중 반도체 분야 인사만 70명에 달합니다.",
+      "title": "11월 기업 체감경기 한 달 만에 악화… 내수기업은 반등",
+      "summary": "올해 11월 전체 기업 체감 경기가 한 달 만에 다시 악화된 것으로 집계됐습니다. 반면 내수기업 체감경기는 4년 6개월 만에 가장 높은 수준을 기록했습니다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261124044652003",
-      "published": "2026-11-24T04:48:17+00:00"
+      "url": "https://www.yna.co.kr/view/AKR20261124156500002",
+      "published": "2026-11-24T21:00:07+00:00"
     },
     {
       "category": "KOREA",
-      "title": "국내 전체 가구 25% '월세살이'…5년 사이 104만 가구 증가",
-      "summary": "지난해 전국 가구의 4분의 1이 월세 형태의 주거를 하는 것으로 조사되었습니다. 이는 5년 전과 비교해 104만 가구 늘어난 수치입니다.",
+      "title": "삼성 준감위 \"삼성전자 주주환원 결정, 준법 위반·이해상충 아냐\"",
+      "summary": "삼성 준법감시위원회는 삼성전자의 주주환원 결정 과정에서 제기된 논란을 검토한 결과 준법 위반이나 이해상충에 해당하지 않는다고 판단했습니다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261124092351002",
-      "published": "2026-11-24T06:07:08+00:00"
-    },
-    {
-      "category": "KOREA",
-      "title": "금융위, 국민성장펀드 올해 30조원 달성 및 내년 40조원 확대 계획",
-      "summary": "금융위원회는 국민성장펀드가 목표치인 30조 원 승인을 달성할 수 있다고 발표했습니다. 이어 내년에는 승인 규모를 40조 원까지 늘릴 예정입니다.",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261124122800002",
-      "published": "2026-11-24T05:46:49+00:00"
+      "url": "https://www.yna.co.kr/view/AKR20261124122351003",
+      "published": "2026-11-24T09:43:28+00:00"
     }
   ],
-  "date": "2026-11-24",
-  "window_start": "2026-11-23T15:02:11.187118+00:00",
-  "window_end": "2026-11-24T07:02:11.187118+00:00"
+  "date": "2026-11-25",
+  "window_start": "2026-11-24T07:32:25.550568+00:00",
+  "window_end": "2026-11-24T23:32:25.550568+00:00"
 }
