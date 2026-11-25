@@ -1,128 +1,128 @@
 {
-  "summary": "밤사이 글로벌 시장에서는 엔비디아 젠슨 황 CEO의 복귀를 둘러싼 정치·안보 논란과 AI 투자 우려로 국내외 기술주와 증시가 급락세를 나타냈습니다. 미국 정부는 주요 무역국 대상 신규 관세를 준비 중이며, 미 연준 인사는 인플레이션 제어를 위한 금리 인상 가능성을 시사했습니다. 한국 경제는 소비재 수출과 출생아 수가 늘어난 반면 10월 가계대출 금리가 5%를 돌파하고 증시가 급등 하루 만에 큰 폭으로 하락했습니다.",
+  "summary": "밤사이 미국 정부가 중국과 EU 등 14개 무역 상대국을 대상으로 신규 관세 부과를 발표하고, 10월 미 PCE 물가지수가 가속화되면서 시장의 인플레이션 우려가 높아졌습니다. 엔비디아와 앤스로픽 등 AI 및 주요 기술주를 둘러싼 시장 변동성이 커졌으며, 영국에서는 가스 가격 급등에 따른 에너지 요금 인상과 유통업체 파산 소식이 이어졌습니다. 국내 증시 또한 변동성이 확대됨에 따라 금융당국이 자사주 취득 한도 완화와 증안펀드 점검 등 대응책 마련에 나섰습니다.",
   "items": [
     {
-      "category": "TECHNOLOGY & INDUSTRY",
-      "title": "엔비디아 젠슨 황 CEO 복귀와 의회 조사 및 정치적 논란",
-      "summary": "사임 후 복귀한 젠슨 황 엔비디아 CEO가 미국 의회 청문회와 법무부 조사를 받게 되었습니다. 트럼프 대통령의 개입으로 이사회 결정이 번복되었다는 지적이 나오는 가운데, 혐의 관련 조사 세부사항에 대해 당국은 답변을 피했습니다.",
+      "category": "GLOBAL ECONOMY",
+      "title": "미국, 중국·EU 등 14개 무역 상대국 대상 신규 관세 부과 발표",
+      "summary": "미국 정부가 불공정하거나 차별적인 무역 관행에 대응한다는 이유로 중국과 유럽연합(EU)을 포함한 14개 무역 상대국에 새로운 관세를 부과하겠다고 발표했습니다. 이번 관세 조치는 미 통상법 제301조에 근거합니다. 한편 한국에 적용되는 관세 상한선은 기존 한미 합의대로 15%로 유지됩니다.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
-      "published": "2026-11-24T17:51:45+00:00"
+      "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+      "published": "2026-11-25T16:02:52+00:00"
     },
     {
       "category": "FINANCIAL MARKETS",
-      "title": "AI 주가 불안에 글로벌 증시 및 한국 코스피 급락",
-      "summary": "인공지능 거래에 대한 우려로 소프트뱅크 주가가 15% 하락하는 등 아시아 반도체·기술주가 크게 떨어졌습니다. 젠슨 황 CEO 복귀 랠리 하루 만에 삼성전자와 SK하이닉스도 급락하며 코스피는 장중 4~5%대 하락했습니다.",
+      "title": "미국 10월 PCE 물가지수 3.8% 기록…인플레이션 가속",
+      "summary": "미국 연방준비제도가 선호하는 인플레이션 지표인 개인소비지출(PCE) 가격지수가 10월에 전년 동기 대비 3.8% 상승한 것으로 집계됐습니다. 이는 다우존스 컨센서스 예상치와 일치하는 수준으로, 중앙은행의 향후 통화정책 행보에 부담을 주고 있습니다.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-      "published": "2026-11-25T03:52:03+00:00"
+      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "published": "2026-11-25T14:18:45+00:00"
+    },
+    {
+      "category": "TECHNOLOGY & INDUSTRY",
+      "title": "젠슨 황 CEO 복귀 및 법무부 수사 설에도 엔비디아 주가 변동성 지속",
+      "summary": "젠슨 황 엔비디아 CEO가 미 법무부(DOJ) 수사 대상이 아니라는 점을 확인받았다는 발표가 나온 가운데 주가는 큰 변동성을 나타냈습니다. 기술 기업과 행정부 간의 관계 및 정치적 영향력에 대한 논란이 이어지면서 엔비디아 및 기술주 전반의 투자 심리에 영향을 미쳤습니다.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+      "published": "2026-11-25T21:00:08+00:00"
+    },
+    {
+      "category": "TECHNOLOGY & INDUSTRY",
+      "title": "스페이스X, 100만 대 궤도 데이터센터 위성 배치 승인 획득",
+      "summary": "스페이스X가 미 연방통신위원회(FCC)로부터 우주 공간에 100만 대의 궤도 데이터센터 위성을 배치할 수 있는 승인을 받았습니다. 이 제안은 아마존 등 경쟁 기업과 타 단체들의 반대 속에서 통과되었습니다.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "published": "2026-11-25T19:52:47+00:00"
+    },
+    {
+      "category": "TECHNOLOGY & INDUSTRY",
+      "title": "앤스로픽 상장 후 주가 부진…AI 투자 심리 부담 작용",
+      "summary": "AI 기업 앤스로픽의 주가가 상장 이후 공모가를 하회하며 거래되고 있어 관련 AI 주식 시장 전반에 부담을 주고 있습니다. 이번 상장으로 임직원 약 5,100명이 주식 억만장자 열열에 올랐으나, 주가 약세는 스타트업 투자 열기를 식히는 요소로 작용하고 있습니다.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/25/anthropics-stock-has-been-a-clunker-post-ipo-why-that-matters-for-the-ai-trade.html",
+      "published": "2026-11-25T16:05:25+00:00"
+    },
+    {
+      "category": "ENERGY & COMMODITIES",
+      "title": "미국 투자자 컨소시엄, 러시아 룩오일의 해외 자산 인수 추진",
+      "summary": "미국 억만장자 토드 보울리가 이끄는 투자자 그룹이 러시아 에너지 기업 룩오일(Lukoil)의 해외 석유 및 가스 자산을 인수하기로 했습니다. 이번 거래에는 미국 국제개발금융공사(DFC)와 아랍에미리트(UAE)의 카테나 인베스트먼트가 참여합니다.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html",
+      "published": "2026-11-25T16:00:45+00:00"
+    },
+    {
+      "category": "ENERGY & COMMODITIES",
+      "title": "우크라이나, 정유공장 공격 중단 요구에 전쟁 종료 반박",
+      "summary": "우크라이나 외무장관은 푸틴 대통령이 키이우의 정유시설 공격을 멈추길 바란다면 전쟁을 중단해야 한다고 밝혔습니다. 푸틴 대통령은 앞서 우크라이나의 러시아 정유공장 공격에 대해 보복이 불가피하다고 공언한 바 있습니다.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
+      "published": "2026-11-25T09:18:37+00:00"
     },
     {
       "category": "GLOBAL ECONOMY",
-      "title": "미국, 글로벌 무역 상대국 대상 신규 관세 발표 준비",
-      "summary": "미국 정부가 글로벌 무역 상대국들을 겨냥한 새로운 관세 계획을 공개할 조율을 진행 중입니다. 이번 신규 과세 조치는 중국과 유럽연합(EU) 등 주요 교역국에 직접적인 영향을 미칠 전망입니다.",
+      "title": "영국 파운드랜드 법정관리 신청…1만1천 명 고용 위기",
+      "summary": "영국의 저가 할인 체인 파운드랜드(Poundland)가 매각 협상 실패 후 법정관리에 들어갔습니다. 미국 사모펀드에 1파운드에 인수된 지 1년 만에 파산에 이르면서 1만 1,000개의 일자리가 위기에 처했습니다.",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T00:38:01+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T21:31:10+00:00"
     },
     {
-      "category": "TECHNOLOGY & INDUSTRY",
-      "title": "미 법원, 화웨이 형사 재판에서 사기 및 영업비밀 침해 유죄 판결",
-      "summary": "미국 배심원단이 화웨이에 대해 은행 사기, 돈세탁, 영업비밀盗用 공모 혐의에 대해 유죄 판결을 내렸습니다. 다만 공갈 혐의에 대해서는 무죄 판결이 내려졌습니다.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
-      "published": "2026-11-25T02:43:33+00:00"
-    },
-    {
-      "category": "FINANCIAL MARKETS",
-      "title": "미 연준 윌리엄스 총재, 인플레이션 대응 위한 추가 금리 인상 시사",
-      "summary": "존 윌리엄스 뉴욕 연준 총재가 인플레이션을 통제하기 위해 시간이 지남에 따라 더 높은 금리가 필요할 수 있다고 언급했습니다. 그는 2027년까지 인플레이션이 연준의 2% 목표치로 수렴할 것이라고 밝혔습니다.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-      "published": "2026-11-24T13:33:26+00:00"
-    },
-    {
-      "category": "TECHNOLOGY & INDUSTRY",
-      "title": "델, AI 서버 수요 힘입어 매출 2배 급증…250억 달러 자사주 매입",
-      "summary": "델의 3분기 전체 매출이 AI 서버 수요 호조로 전년 동기 대비 2배 이상 늘어나 시장 예상치를 웃돌았습니다. 실적 발표와 함께 델은 250억 달러 규모의 자사주 매입을 승인했습니다.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
-      "published": "2026-11-24T22:07:45+00:00"
-    },
-    {
-      "category": "TECHNOLOGY & INDUSTRY",
-      "title": "사노피, 인스메드 인수 합의…주가 14% 상승",
-      "summary": "제약사 사노피가 인스메드를 인수하기로 하면서 인스메드 주가가 14% 폭등했습니다. 사노피는 주요 특허 만료에 따른 미래 매출 감소에 대비해 제약업계 3년 만의 최대 인수 거래를 진행했습니다.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
-      "published": "2026-11-24T21:07:19+00:00"
-    },
-    {
-      "category": "TECHNOLOGY & INDUSTRY",
-      "title": "중국 샤먼항공, 74억 달러 규모 보잉 항공기 50대 구매계약",
-      "summary": "중국 샤먼항공이 카탈로그가 기준 약 74억 달러 상당의 보잉 737-8 여객기 50대를 구매하는 계약을 체결했습니다.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html",
-      "published": "2026-11-25T03:58:32+00:00"
-    },
-    {
-      "category": "GLOBAL ECONOMY",
-      "title": "UAE 경제장관, IMF 상향 조정 속 내년 7~8% 성장 자신",
-      "summary": "IMF가 경제 전망을 상향 조정한 가운데 아랍에미리트(UAE) 경제장관이 내년 7~8%의 경제 성장률 달성을 낙관했습니다. UAE는 독자적인 경제 모델을 바탕으로 성장을 추진하고 있습니다.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
-      "published": "2026-11-25T04:06:01+00:00"
-    },
-    {
-      "category": "GLOBAL ECONOMY",
-      "title": "미국 11월 소비자신뢰지수 103.3으로 반등…인플레 우려는 지속",
-      "summary": "컨퍼런스보드의 11월 조사에서 미국의 소비자신뢰지수가 103.3으로 대폭 개선되었습니다. 전반적인 지표는 상승했으나 물가 상승에 대한 소비자의 불안은 이어지고 있습니다.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-      "published": "2026-11-24T18:34:43+00:00"
+      "category": "ENERGY & COMMODITIES",
+      "title": "영국 내년 1월부터 에너지 요금 26% 인상 전망",
+      "summary": "가스 가격 급등 여파로 내년 1월부터 영국의 가계 에너지 요금 상한이 26% 인상될 예정입니다. 이에 따라 평균적인 에너지 사용 가구의 연간 요금이 기존 1,723파운드에서 2,166파운드로 늘어나게 됩니다.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T13:42:08+00:00"
     },
     {
       "category": "FINANCIAL MARKETS",
-      "title": "앤스로픽 주가 공모가 밑으로 하락…파생상품 시장 분열",
-      "summary": "앤스로픽 주가가 상장 후 내림세를 지속하며 공모가인 83달러 아래로 떨어졌습니다. 거래 현장에서는 풋옵션과 콜옵션 매수가 동시에 몰리며 향후 주가 방향에 대한 전망이 엇갈리고 있습니다.",
+      "title": "미국 10년물 국채 금리 하락…안고자산 매수세 유입",
+      "summary": "높은 인플레이션 데이터 발표에도 불구하고 투자자들이 자산 보호를 위해 채권 매수에 나서면서 미 10년물 국채 금리가 하락했습니다. 시장 변동성 확대 속에 안전자산 선호 심리가 반영되었습니다.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-      "published": "2026-11-24T21:04:03+00:00"
+      "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
+      "published": "2026-11-25T21:02:05+00:00"
+    },
+    {
+      "category": "TECHNOLOGY & INDUSTRY",
+      "title": "미 법원, 화웨이에 영업비밀 침해 유죄 판결",
+      "summary": "미국 뉴욕 법원에서 열린 재판에서 중국 통신기업 화웨이가 미국 기업의 영업비밀을 침해한 혐의에 대해 유죄 판결이 내려졌습니다. 단, 공갈(racketeering) 혐의에 대해서는 무죄 판결이 전달되었습니다.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T10:52:09+00:00"
     },
     {
       "category": "KOREA",
-      "title": "10월 가계대출 금리 연 5% 돌파…주담대 금리 14년 7개월 만에 최고",
-      "summary": "지난달 국내 은행권의 가계대출 금리가 연 5%를 넘어서며 2년 11개월 만에 최고치를 기록했습니다. 주택담보대출 금리도 14년 7개월 만에 가장 높은 수준으로 올라섰습니다.",
+      "title": "한국은행 금통위 기준금리 결정 앞두고 국고채 금리 일제히 하락",
+      "summary": "한국은행 금융통화위원회의 통화정책방향 회의를 하루 앞두고 국내 국고채 금리가 일제히 하락했습니다. 3년 만기 국고채 금리는 연 3.583%로 거래를 마감했습니다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261125080800002",
-      "published": "2026-11-25T03:00:09+00:00"
+      "url": "https://www.yna.co.kr/view/AKR20261125128400002",
+      "published": "2026-11-25T20:45:01+00:00"
     },
     {
       "category": "KOREA",
-      "title": "올해 3분기 누적 출생아 수 21만9천 명…증가율 역대 최고",
-      "summary": "올해 1월부터 9월까지 국내 출생아 수가 작년 같은 기간보다 14% 이상 늘어나 21만9천 명을 기록했습니다. 이는 역대 가장 높은 수준의 출생아 증가율입니다.",
+      "title": "증시 급락에 자사주 취득 한도 완화 및 증안펀드 추가 출자 타진",
+      "summary": "국내 증시 급락세에 대응해 금융당국이 상장사의 1일 자사주 취득 한도를 완화했습니다. 이와 더불어 산업은행은 10조원 규모의 증권시장안정펀드 참여 금융사들을 대상으로 약정금 추가 집행을 타진하고 있습니다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261125087700002",
-      "published": "2026-11-25T03:00:02+00:00"
+      "url": "https://www.yna.co.kr/view/AKR20261125170400008",
+      "published": "2026-11-25T23:00:03+00:00"
     },
     {
       "category": "KOREA",
-      "title": "K-뷰티·푸드 등 K-소비재 수출액 역대 최대 달성",
-      "summary": "화장품, 라면 등 K-소비재 수출이 올해 연말 전 이미 지난해 전체 실적을 넘어서며 역대 최대를 기록했습니다. 뷰티, 푸드, 패션 등 전 분야가 실적 성장을 견인했습니다.",
+      "title": "정부, 수도권에 2030년까지 공적주택 50만 호 착공 추진",
+      "summary": "정부가 수도권 주택 공급 확대를 위해 2030년까지 182조원 규모의 아파트를 발주하고 공적주택 50만 호 착공을 추진하기로 했습니다. 이재명 대통령은 현장을 방문해 주거 인프라 확보의 중요성을 강조했습니다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261125070800002",
-      "published": "2026-11-25T01:40:44+00:00"
+      "url": "https://www.yna.co.kr/view/AKR20261125168651001",
+      "published": "2026-11-25T12:33:27+00:00"
     },
     {
       "category": "KOREA",
-      "title": "CJ프레시웨이, 납품 목적 기부금·상품권 제공으로 제재 절차 착수",
-      "summary": "CJ프레시웨이가 복지시설 식자재 납품권을 얻기 위해 시설 관계자들에게 상품권을 제공한 행위가 적발되어 정부 당국의 제재 절차가 시작되었습니다.",
+      "title": "9월 국내은행 개인사업자 및 가계 신용대출 부실채권비율 12년 만에 최고",
+      "summary": "올해 9월 말 기준 국내은행의 개인사업자 대출 부실채권비율과 가계 신용대출 부실채권비율이 나란히 12년 만에 가장 높은 수치를 기록한 것으로 집계되었습니다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261125060051002",
-      "published": "2026-11-25T03:58:42+00:00"
+      "url": "https://www.yna.co.kr/view/AKR20261125175600002",
+      "published": "2026-11-25T21:00:00+00:00"
     }
   ],
-  "date": "2026-11-25",
-  "window_start": "2026-11-24T12:18:26.113874+00:00",
-  "window_end": "2026-11-25T04:18:26.113874+00:00"
+  "date": "2026-11-26",
+  "window_start": "2026-11-25T07:13:23.726353+00:00",
+  "window_end": "2026-11-25T23:13:23.726353+00:00"
 }
