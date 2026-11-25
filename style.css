@@ -230,8 +230,8 @@ main {
 
 .dot:hover,
 .dot:focus-visible {
-    transform: scale(1.5);
     z-index: 2;
+    box-shadow: 0 0 0 3px rgba(10, 16, 36, 0.55), 0 0 0 5px var(--cat), 0 0 18px var(--cat);
 }
 
 /* 마우스를 올리면 기사 제목 말풍선 */
