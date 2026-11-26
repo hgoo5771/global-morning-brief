@@ -1,128 +1,128 @@
 {
-  "summary": "밤사이 글로벌 시장은 미국의 14개국 신규 관세 부과 제안과 10월 PCE 물가지수의 상승으로 관세 및 인플레이션 우려가 이어졌습니다. 한국은행은 물가 부담과 반도체 호황을 고려해 기준금리를 3.25%로 인상하고 내년 경제성장률 전망을 4.1%로 대폭 상향했습니다. 또한 엔비디아 지배구조에 대한 S&P의 경고와 스페이스X의 궤도 데이터센터 위성 100만 대 승인 등 주요 기술·산업 이슈가 시장의 주목을 받았습니다.",
+  "summary": "밤사이 미국에서는 트럼프 정부의 무역 관세 압박과 3분기 GDP 데이터 수정에 대한 조사 요구가 불거진 가운데, 차기 유럽중앙은행(ECB) 총재로 파블로 에르난데스 데 코스가 선출되었습니다. 기술 분야에서는 미국 규제 강화로 엔비디아가 동남아 일부 지역에 대한 AI 칩 수출을 중단했으나, 스페이스X의 100만 대 데이터 위성 계획이 승인받는 등 AI 인프라 확장이 지속되고 있습니다. 국내에서는 대출 증가와 금리 상승으로 은행권의 3분기 누적 이자이익이 48조 원을 넘어섰고, 자본시장 개혁기구 수장에 민간 금융 전문가가 위촉되었습니다.",
   "items": [
     {
-      "category": "KOREA",
-      "title": "한국은행, 기준금리 3.25%로 인상 및 내년 성장률 전망 상향",
-      "summary": "한국은행 금융통화위원회가 올해 마지막 통화정책방향 회의에서 기준금리를 연 3.00%에서 3.25%로 0.25%포인트 인상했습니다. 한은은 반도체 호황과 물가 부담을 반영해 내년 한국 경제성장률 전망치를 기존 2.9%에서 4.1%로 상향 조정했습니다.",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261126055800002",
-      "published": "2026-11-26T00:52:12+00:00"
+      "category": "GLOBAL ECONOMY",
+      "title": "트럼프, 3분기 GDP 수정치 대폭 상향에 조사 요구",
+      "summary": "도널드 트럼프 대통령은 최근 3분기 국내총생산(GDP) 수정치를 오류라고 주장했습니다. 그는 이에 대한 즉각적인 조사를 촉구했습니다.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "published": "2026-11-26T21:13:17+00:00"
     },
     {
       "category": "GLOBAL ECONOMY",
-      "title": "미국, 중국·EU 등 14개 무역 상대국에 신규 관세 부과 제안",
-      "summary": "미국 정부가 중국과 유로존(EU)을 포함한 14개 무역 상대국에 새로운 관세를 부과하는 방안을 제안했습니다. 이번 조치는 미국 상거래에 불공정하거나 차별적인 외국 무역 관행에 대응하기 위해 추진됩니다.",
+      "title": "파블로 에르난데스 데 코스, 차기 유럽중앙은행(ECB) 총재 선출",
+      "summary": "크리스틴 라가르드 총재의 뒤를 이어 파블로 에르난데스 데 코스가 차기 유럽중앙은행 총재로 지지를 확보했습니다. 그는 내년부터 정치적 불확실성과 불균등한 성장의 시기에 ECB를 이끌게 됩니다.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
-      "published": "2026-11-25T16:02:52+00:00"
+      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "published": "2026-11-26T15:28:26+00:00"
+    },
+    {
+      "category": "GLOBAL ECONOMY",
+      "title": "미국, 14개 교역국 대상 관세 인상 경고 및 무역협정 압박",
+      "summary": "미국이 14개 교역국을 상대로 새로운 관세 부과를 계획하며 무역 협정을 맺도록 압박을 가하고 있습니다. 워싱턴과 무역 협정을 체결하는 국가에는 더 낮은 관세율을 제시하고 있습니다.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "published": "2026-11-26T12:46:55+00:00"
     },
     {
       "category": "TECHNOLOGY & INDUSTRY",
-      "title": "스페이스X, 궤도 데이터센터 위성 100만 대 배치 FCC 승인 획득",
-      "summary": "스페이스X가 궤도 데이터센터 위성 100만 대를 우주로 배치하려는 계획에 대해 미국 연방통신위원회(FCC)의 승인을 받았습니다. 이 사업계획은 아마존 등 타 기업들의 반대를 받았으나 최종 승인되었습니다.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-      "published": "2026-11-26T02:35:39+00:00"
+      "title": "엔비디아, 미국 규제 강화에 동남아 4개국 수출 중단",
+      "summary": "엔비디아가 미국의 대중국 규제 강화에 맞춰 동남아시아 4개국에 대한 첨단 AI 칩 출하를 중단했습니다. 이번 조치는 해당 국가 기업들이 첨단 AI 칩을 구매할 때 정부 허가를 받도록 한 미국 새 규정에 따른 것입니다.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+      "published": "2026-11-26T12:04:01+00:00"
     },
     {
-      "category": "FINANCIAL MARKETS",
-      "title": "S&P, 경영 및 지배구조 리스크로 엔비디아 신용등급 하향 가능성 경고",
-      "summary": "S&P 글로벌 레이팅스가 엔비디아의 경영 및 지배구조 리스크 증가를 지적하며 신용등급을 한 단계 하향 조정할 수 있다고 경고했습니다. 경영진 관련 리스크 상승이 주요 요인으로 꼽혔습니다.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
-      "published": "2026-11-26T03:19:44+00:00"
-    },
-    {
-      "category": "GLOBAL ECONOMY",
-      "title": "미 연준 선호 10월 PCE 물가지수 3.8% 기록하며 가속화",
-      "summary": "미 연방준비제도가 주시하는 10월 개인소비지출(PCE) 가격지수가 연율 3.8% 상승한 것으로 나타났습니다. 이는 다우존스 컨센서스 예상치에 부합하는 수치로 중앙은행의 통화정책 부담을 가중시키고 있습니다.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "published": "2026-11-25T14:18:45+00:00"
-    },
-    {
-      "category": "FINANCIAL MARKETS",
-      "title": "앤트로픽 주가 IPO 가격 하회하며 AI 스타트업 투자 둔화 우려",
-      "summary": "인공지능 기업 앤트로픽의 주가가 상장(IPO) 공모가를 밑돌며 거래되고 있습니다. 이번 주가 부진은 다른 AI 기업들의 거래와 전반적인 기술 스타트업 투자 심리에 부담을 주고 있습니다.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/25/anthropics-stock-has-been-a-clunker-post-ipo-why-that-matters-for-the-ai-trade.html",
-      "published": "2026-11-25T16:05:25+00:00"
+      "category": "TECHNOLOGY & INDUSTRY",
+      "title": "화웨이, 미국 제재 속 중국 AI 추진의 핵심 기업으로 부상",
+      "summary": "중국의 엔비디아 첨단 칩 접근이 제한되면서 화웨이가 중국의 AI 고도화 추진에 없어서는 안 될 존재로 자리 잡고 있습니다. 화웨이는 미국 경쟁사와의 기술적 격차에도 불구하고 베이징의 AI 정책 중심에 섰습니다.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html",
+      "published": "2026-11-26T10:01:56+00:00"
     },
     {
       "category": "ENERGY & COMMODITIES",
-      "title": "미국 억만장자 토드 볼리 주도 컨소시엄, 루코일 해외 자산 인수 추진",
-      "summary": "러시아 에너지 기업 루코일의 해외 석유 및 가스 자산을 미국 억만장자 토드 볼리가 이끄는 투자자 그룹이 인수할 예정입니다. 인수 컨소시엄에는 미국 국제개발금융공사(DFC)와 아랍에미리트의 카테나 인베스트먼트가 포함되어 있습니다.",
+      "title": "라틴아메리카의 구리와 에너지, AI 인프라 확장 핵심 자원으로 주목",
+      "summary": "라틴아메리카의 구리, 석유, 가스 및 희토류가 AI 에너지 수요 증가의 수혜를 볼 수 있다는 분석이 나왔습니다. 다만 인프라와 재정 정책이 투자 유치에 성공하느냐가 과제로 남아있습니다.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html",
-      "published": "2026-11-25T16:00:45+00:00"
+      "url": "https://www.cnbc.com/2026/11/26/latin-america-copper-energy-ai-investment.html",
+      "published": "2026-11-26T08:59:11+00:00"
     },
     {
-      "category": "ENERGY & COMMODITIES",
-      "title": "영국 가스 가격 급등으로 내년 1월부터 에너지 요금 26% 인상 전망",
-      "summary": "가스 가격 급등으로 인해 영국의 가구당 에너지 요금이 내년 1월부터 26% 인상될 예정입니다. 표준 에너지를 사용하는 가구의 연간 요금 부담은 기존 1,723파운드에서 2,166파운드로 늘어납니다.",
+      "category": "FINANCIAL MARKETS",
+      "title": "무디스 \"AI 도입에 따른 기업 간 신용도 격차 확대 전망\"",
+      "summary": "글로벌 신용평가사 무디스는 기업의 인공지능(AI) 도입에 따른 비용 절감이 반드시 신용도 개선으로 이어지는 것은 아니라고 분석했습니다. 이에 따라 동일 산업 내에서도 기업 간 신용도 격차가 더욱 벌어질 것으로 보았습니다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR2026112618250008",
+      "published": null
+    },
+    {
+      "category": "FINANCIAL MARKETS",
+      "title": "노르스 아틀란틱 항공, 운항 중단 및 파산 가능성 발표",
+      "summary": "노르스 아틀란틱 항공이 주가 폭락 이후 모든 항공편 운항을 중단하고 파산 신청 가능성을 경고했습니다. 회사 측은 재정 상태가 심각한 위기에 처해 있으며 긴급 자금 지원이 필요하다고 밝혔습니다.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+      "published": "2026-11-26T09:02:30+00:00"
+    },
+    {
+      "category": "TECHNOLOGY & INDUSTRY",
+      "title": "머스크의 100만 대 스페이스X 데이터 위성 발사 계획 승인",
+      "summary": "일론 머스크의 100만 대 스페이스X 데이터 위성 발사 프로젝트인 스타마인드(Starmind) 군집 위성 구축이 승인되었습니다. 이번 프로젝트는 성장하는 AI 컴퓨팅 수요를 비용과 에너지 효율적으로 충족하는 것을 목표로 합니다.",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T13:42:08+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T09:27:44+00:00"
     },
     {
-      "category": "GLOBAL ECONOMY",
-      "title": "영국 할인점 파운드랜드 법정관리 신청…1만 1천 명 고용 위기",
-      "summary": "영국의 저가 체인 업체 파운드랜드가 매각 협상 실패 후 법정관리(Administration) 절차에 돌입했습니다. 이에 따라 브랜드 소속 근로자 1만 1,000명의 일자리가 위험에 처했습니다.",
+      "category": "FINANCIAL MARKETS",
+      "title": "스위스 UBS, 규제당국과 자본 요건 및 위기 대응 계획 갈등",
+      "summary": "스위스 금융감독청(FINMA)은 UBS가 선호하는 위기 해결 전략을 실행할 수 있다고 발표했습니다. 하지만 UBS는 더 엄격한 자본 요건을 놓고 의회와 별도의 대립을 이어가고 있습니다.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html",
+      "published": "2026-11-26T11:17:39+00:00"
+    },
+    {
+      "category": "FINANCIAL MARKETS",
+      "title": "영국 파운드랜드, 매각 실패로 법정관리 신청",
+      "summary": "영국의 할인 유통 체인 파운드랜드가 매수자를 찾지 못해 법정관리에 들어갔습니다. 이번 사태로 11,000개의 일자리가 위기에 처했습니다.",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T21:31:10+00:00"
+      "published": "2026-11-26T08:24:29+00:00"
     },
     {
       "category": "KOREA",
-      "title": "블랙프라이데이 앞두고 글로벌 아마존 1위에 K-뷰티 주가 상승",
-      "summary": "블랙프라이데이를 앞두고 한국 화장품 브랜드들이 글로벌 아마존 스킨케어 순위 상위권을 차지하면서 국내 뷰티 기업들의 주가가 상승했습니다. 해외 시장에서의 판매 호조가 증시에 긍정적인 영향을 끼쳤습니다.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
-      "published": "2026-11-26T03:09:47+00:00"
-    },
-    {
-      "category": "KOREA",
-      "title": "올해 3분기 가계 실질소득 10분기 만에 감소 전환",
-      "summary": "올해 3분기 가구당 실질소득이 전년 동기 대비 2.1% 줄어들며 10분기 만에 감소세로 돌아섰습니다. 고금리와 지속적인 물가 상승으로 인해 자영업자와 가계의 실질적인 소비 여력이 악화된 영향입니다.",
+      "title": "국내 은행 3분기 누적 이자이익 48조원 돌파",
+      "summary": "올해 3분기까지 국내 은행의 이자이익이 대출 확대와 금리 상승 영향으로 전년 동기 대비 8.2% 증가했습니다. 반면 비이자이익은 감소세를 나타냈습니다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261126073500002",
-      "published": "2026-11-26T03:00:06+00:00"
+      "url": "https://www.yna.co.kr/view/AKR20261126177900002",
+      "published": "2026-11-26T21:00:04+00:00"
     },
     {
       "category": "KOREA",
-      "title": "한은 총재 \"반도체 기업 시총 수익 대비 낮아…설명 불가능\"",
-      "summary": "신현송 한국은행 총재는 국내 반도체 기업의 올해 영업이익이 700조 원인데 비해 시가총액이 2,000조 원으로 영업이익의 3배 수준에 불과하다고 밝혔습니다. 신 총재는 이러한 수치가 시장 상황으로 설명되지 않는 수준이라고 언급했습니다.",
+      "title": "자본시장개혁기구 수장에 메리츠 김용범 부회장 위임",
+      "summary": "정부가 대통령의 주문에 따라 자본시장 개혁기구의 수장으로 김용범 메리츠지주 부회장을 위촉했습니다. 민간 전문가인 김 부회장에게 자본시장 개혁 작업의 전권이 부여될 예정입니다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261126102000002",
-      "published": "2026-11-26T03:18:18+00:00"
-    },
-    {
-      "category": "FINANCIAL MARKETS",
-      "title": "기술주 반등 속 아시아 증시 상승…한국 코스피 상승 주도",
-      "summary": "기술주의 반등세에 힘입어 아시아 증시가 전반적인 상승 흐름을 보였으며 한국 코스피가 상승세를 이끌었습니다. 일본 닛케이225 지수와 호주 S&P/ASX 200 지수도 장 초반 동반 상승했습니다.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "published": "2026-11-26T01:45:52+00:00"
-    },
-    {
-      "category": "GLOBAL ECONOMY",
-      "title": "인도 자동차 판매 호조…2027년 3월 결산 연도 3천만 대 돌파 전망",
-      "summary": "인도 경제의 호황과 외국인 투자자 복귀로 자동차 시장의 성장세가 가파릅니다. 인도 내 자동차 제조업체들은 2027년 3월에 마감하는 회계연도에 3,000만 대 이상의 차량을 판매할 것으로 예상되고 있습니다.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
-      "published": "2026-11-26T00:12:16+00:00"
+      "url": "https://www.yna.co.kr/view/AKR20261126171600002",
+      "published": "2026-11-26T08:15:58+00:00"
     },
     {
       "category": "KOREA",
-      "title": "홈플러스 인수의향자, 부동산 개발업체 주도 컨소시엄으로 확인",
-      "summary": "기업회생절차를 밟고 있는 홈플러스의 전체 인수를 추진하는 인수의향자가 부동산 개발업체가 주도하는 컨소시엄인 것으로 나타났습니다. 이들은 홈플러스 사업 부문 전체 인수를 목표로 사업을 검토 중입니다.",
+      "title": "이재명 대통령 \"정부 지원으로 성공한 기업, 성과 재투자해야\"",
+      "summary": "이재명 대통령은 정부 지원을 통해 성과를 낸 기업들이 이익을 독차지하지 않아야 한다고 밝혔습니다. 대통령은 기업의 성공 과실이 다시 재투자로 이어질 수 있는 시스템 구축을 당부했습니다.",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261126089600030",
-      "published": "2026-11-26T02:31:16+00:00"
+      "url": "https://www.yna.co.kr/view/AKR20261126176100001",
+      "published": "2026-11-26T09:37:36+00:00"
+    },
+    {
+      "category": "KOREA",
+      "title": "공정거래위원장 \"기술탈취 무관용 대응…과징금 5배 상향 추진\"",
+      "summary": "주병기 공정거래위원장이 중소기업 대상 기술탈취 행위에 대해 무관용 원칙으로 대응하겠다고 발표했습니다. 공정위는 가해 기업에 대한 과징금을 최대 5배로 상향하는 방안을 추진할 계획입니다.",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261126090551002",
+      "published": "2026-11-26T07:36:07+00:00"
     }
   ],
-  "date": "2026-11-26",
-  "window_start": "2026-11-25T11:38:52.036679+00:00",
-  "window_end": "2026-11-26T03:38:52.036679+00:00"
+  "date": "2026-11-27",
+  "window_start": "2026-11-26T07:18:50.660086+00:00",
+  "window_end": "2026-11-26T23:18:50.660086+00:00"
 }
